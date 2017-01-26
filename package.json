@@ -1,0 +1,18 @@
+{
+  "name": "reddit-clone",
+  "version": "1.0.0",
+  "description": "A simple reddit clone built on Angular 1.6",
+  "main": "index.js",
+  "repository": {},
+  "author": "Minh Chau <xiu.chau@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "angular": "1.6.0"
+  }
+}
